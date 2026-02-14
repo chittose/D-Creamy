@@ -1,0 +1,19 @@
+<svg width="512" height="512" viewBox="0 0 512 512" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="256" cy="256" r="256" fill="#FBBF24"/>
+  
+  <!-- Ice cream cone shape -->
+  <path d="M256 450 L170 280 L342 280 Z" fill="#D97706"/>
+  
+  <!-- Ice cream scoops -->
+  <circle cx="256" cy="220" r="90" fill="#FEF3C7"/>
+  <circle cx="200" cy="250" r="60" fill="#FFFBEB"/>
+  <circle cx="312" cy="250" r="60" fill="#FFFBEB"/>
+  
+  <!-- Drips -->
+  <ellipse cx="210" cy="290" rx="15" ry="25" fill="#FEF3C7"/>
+  <ellipse cx="300" cy="295" rx="12" ry="20" fill="#FEF3C7"/>
+  
+  <!-- Letter D -->
+  <text x="230" y="235" font-family="Arial, sans-serif" font-size="80" font-weight="bold" fill="#422006">D'</text>
+</svg>
